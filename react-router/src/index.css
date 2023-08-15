@@ -45,4 +45,32 @@ body > div {
   color: white;
 }
 
+.home{
+  background-color: lavender;
+  color: white
+}
+
+.yellow{
+  background-color: yellow;
+  color: white;
+}
+
+footer {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer{
+  padding: 2em;
+  justify-content: space-evenly;
+}
+
+.header{
+  padding: 2em;
+  justify-content: space-evenly;
+  display: flex;
+  align-items: center;
+}
 
